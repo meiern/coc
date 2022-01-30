@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="coc">
+    <output-path>$PROJECT_DIR$/out/artifacts/coc</output-path>
+    <root id="archive" name="coc.jar">
+      <element id="directory" name="source">
+        <element id="dir-copy" path="$PROJECT_DIR$/src" />
+      </element>
+    </root>
+  </artifact>
+</component>

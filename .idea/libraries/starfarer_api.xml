@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="starfarer.api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Games/Starsector/starsector-core/starfarer.api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Games/Starsector/starsector-core/lwjgl_util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Games/Starsector/starsector-core/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Modding/Starsector/MagicLib/jars/MagicLib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Modding/Starsector/LazyLib/jars/LazyLib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Modding/Starsector/LazyLib/jars/LazyLib-Kotlin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Modding/Starsector/GraphicsLib/jars/Graphics.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Games/Starsector/starsector-core/starfarer.api.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Modding/Starsector/LazyLib/jars/LazyLib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Modding/Starsector/LazyLib/jars/LazyLib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Modding/Starsector/LazyLib/jars/LazyLib-Kotlin.jar!/" />
+    </SOURCES>
+  </library>
+</component>
