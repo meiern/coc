@@ -17,3 +17,6 @@ Starcsector Mod: Chronicles of cinder
 - [How Station Mechanics are Handled](https://fractalsoftworks.com/forum/index.php?topic=11817.0)
 
 - [Campaign API function and what they do.](https://fractalsoftworks.com/forum/index.php?topic=944.0)
+
+## development
+> Build: Ctrl+Shift+F9
